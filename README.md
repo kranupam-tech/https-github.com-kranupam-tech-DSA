@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/kranupam-tech/https-github.com-kranupam-tech-DSA/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/kranupam-tech/https-github.com-kranupam-tech-DSA/tree/master/0268-missing-number) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/kranupam-tech/https-github.com-kranupam-tech-DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/kranupam-tech/https-github.com-kranupam-tech-DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/kranupam-tech/https-github.com-kranupam-tech-DSA/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/kranupam-tech/https-github.com-kranupam-tech-DSA/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
