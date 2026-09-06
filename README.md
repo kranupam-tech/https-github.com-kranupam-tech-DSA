@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/kranupam-tech/https-github.com-kranupam-tech-DSA/tree/master/0268-missing-number) |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/kranupam-tech/https-github.com-kranupam-tech-DSA/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/kranupam-tech/https-github.com-kranupam-tech-DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Math
 |  |
@@ -90,4 +91,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0233-number-of-digit-one](https://github.com/kranupam-tech/https-github.com-kranupam-tech-DSA/tree/master/0233-number-of-digit-one) |
+## String
+|  |
+| ------- |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/kranupam-tech/https-github.com-kranupam-tech-DSA/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
+## Counting
+|  |
+| ------- |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/kranupam-tech/https-github.com-kranupam-tech-DSA/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 <!---LeetCode Topics End-->
