@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/kranupam-tech/https-github.com-kranupam-tech-DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/kranupam-tech/https-github.com-kranupam-tech-DSA/tree/master/0009-palindrome-number) |
 | [0231-power-of-two](https://github.com/kranupam-tech/https-github.com-kranupam-tech-DSA/tree/master/0231-power-of-two) |
+| [0233-number-of-digit-one](https://github.com/kranupam-tech/https-github.com-kranupam-tech-DSA/tree/master/0233-number-of-digit-one) |
 | [0258-add-digits](https://github.com/kranupam-tech/https-github.com-kranupam-tech-DSA/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/kranupam-tech/https-github.com-kranupam-tech-DSA/tree/master/0268-missing-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/kranupam-tech/https-github.com-kranupam-tech-DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/kranupam-tech/https-github.com-kranupam-tech-DSA/tree/master/0231-power-of-two) |
+| [0233-number-of-digit-one](https://github.com/kranupam-tech/https-github.com-kranupam-tech-DSA/tree/master/0233-number-of-digit-one) |
 ## Sliding Window
 |  |
 | ------- |
@@ -84,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/kranupam-tech/https-github.com-kranupam-tech-DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0233-number-of-digit-one](https://github.com/kranupam-tech/https-github.com-kranupam-tech-DSA/tree/master/0233-number-of-digit-one) |
 <!---LeetCode Topics End-->
