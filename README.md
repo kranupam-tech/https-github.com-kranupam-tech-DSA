@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/kranupam-tech/https-github.com-kranupam-tech-DSA/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/kranupam-tech/https-github.com-kranupam-tech-DSA/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/kranupam-tech/https-github.com-kranupam-tech-DSA/tree/master/0268-missing-number) |
+| [2180-count-integers-with-even-digit-sum](https://github.com/kranupam-tech/https-github.com-kranupam-tech-DSA/tree/master/2180-count-integers-with-even-digit-sum) |
 | [3875-construct-uniform-parity-array-i](https://github.com/kranupam-tech/https-github.com-kranupam-tech-DSA/tree/master/3875-construct-uniform-parity-array-i) |
 ## Binary Search
 |  |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/kranupam-tech/https-github.com-kranupam-tech-DSA/tree/master/0258-add-digits) |
+| [2180-count-integers-with-even-digit-sum](https://github.com/kranupam-tech/https-github.com-kranupam-tech-DSA/tree/master/2180-count-integers-with-even-digit-sum) |
 ## Number Theory
 |  |
 | ------- |
