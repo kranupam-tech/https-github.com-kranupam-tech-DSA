@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/kranupam-tech/https-github.com-kranupam-tech-DSA/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/kranupam-tech/https-github.com-kranupam-tech-DSA/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/kranupam-tech/https-github.com-kranupam-tech-DSA/tree/master/0233-number-of-digit-one) |
 ## Sliding Window
@@ -99,4 +100,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/kranupam-tech/https-github.com-kranupam-tech-DSA/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/kranupam-tech/https-github.com-kranupam-tech-DSA/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
