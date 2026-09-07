@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kranupam-tech/https-github.com-kranupam-tech-DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/kranupam-tech/https-github.com-kranupam-tech-DSA/tree/master/0035-search-insert-position) |
+| [0136-single-number](https://github.com/kranupam-tech/https-github.com-kranupam-tech-DSA/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/kranupam-tech/https-github.com-kranupam-tech-DSA/tree/master/0268-missing-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/kranupam-tech/https-github.com-kranupam-tech-DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/kranupam-tech/https-github.com-kranupam-tech-DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/kranupam-tech/https-github.com-kranupam-tech-DSA/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/kranupam-tech/https-github.com-kranupam-tech-DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/kranupam-tech/https-github.com-kranupam-tech-DSA/tree/master/0268-missing-number) |
 | [1009-complement-of-base-10-integer](https://github.com/kranupam-tech/https-github.com-kranupam-tech-DSA/tree/master/1009-complement-of-base-10-integer) |
