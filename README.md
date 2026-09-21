@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/kranupam-tech/https-github.com-kranupam-tech-DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/kranupam-tech/https-github.com-kranupam-tech-DSA/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/kranupam-tech/https-github.com-kranupam-tech-DSA/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/kranupam-tech/https-github.com-kranupam-tech-DSA/tree/master/0231-power-of-two) |
@@ -113,5 +114,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/kranupam-tech/https-github.com-kranupam-tech-DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/kranupam-tech/https-github.com-kranupam-tech-DSA/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
