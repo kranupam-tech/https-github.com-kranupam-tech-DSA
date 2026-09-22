@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/kranupam-tech/https-github.com-kranupam-tech-DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/kranupam-tech/https-github.com-kranupam-tech-DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/kranupam-tech/https-github.com-kranupam-tech-DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3731-find-missing-elements](https://github.com/kranupam-tech/https-github.com-kranupam-tech-DSA/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/kranupam-tech/https-github.com-kranupam-tech-DSA/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/kranupam-tech/https-github.com-kranupam-tech-DSA/tree/master/0268-missing-number) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/kranupam-tech/https-github.com-kranupam-tech-DSA/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/kranupam-tech/https-github.com-kranupam-tech-DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3731-find-missing-elements](https://github.com/kranupam-tech/https-github.com-kranupam-tech-DSA/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
 | ------- |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/kranupam-tech/https-github.com-kranupam-tech-DSA/tree/master/0268-missing-number) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/kranupam-tech/https-github.com-kranupam-tech-DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [3731-find-missing-elements](https://github.com/kranupam-tech/https-github.com-kranupam-tech-DSA/tree/master/3731-find-missing-elements) |
 ## Simulation
 |  |
 | ------- |
