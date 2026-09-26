@@ -127,4 +127,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/kranupam-tech/https-github.com-kranupam-tech-DSA/tree/master/0069-sqrtx) |
+## Database
+|  |
+| ------- |
+| [0627-swap-sex-of-employees](https://github.com/kranupam-tech/https-github.com-kranupam-tech-DSA/tree/master/0627-swap-sex-of-employees) |
 <!---LeetCode Topics End-->
