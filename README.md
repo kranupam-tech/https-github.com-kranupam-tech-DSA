@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kranupam-tech/https-github.com-kranupam-tech-DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/kranupam-tech/https-github.com-kranupam-tech-DSA/tree/master/0035-search-insert-position) |
+| [0055-jump-game](https://github.com/kranupam-tech/https-github.com-kranupam-tech-DSA/tree/master/0055-jump-game) |
 | [0136-single-number](https://github.com/kranupam-tech/https-github.com-kranupam-tech-DSA/tree/master/0136-single-number) |
 | [0219-contains-duplicate-ii](https://github.com/kranupam-tech/https-github.com-kranupam-tech-DSA/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/kranupam-tech/https-github.com-kranupam-tech-DSA/tree/master/0268-missing-number) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/kranupam-tech/https-github.com-kranupam-tech-DSA/tree/master/0055-jump-game) |
 | [0233-number-of-digit-one](https://github.com/kranupam-tech/https-github.com-kranupam-tech-DSA/tree/master/0233-number-of-digit-one) |
 ## String
 |  |
@@ -134,4 +136,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0627-swap-sex-of-employees](https://github.com/kranupam-tech/https-github.com-kranupam-tech-DSA/tree/master/0627-swap-sex-of-employees) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/kranupam-tech/https-github.com-kranupam-tech-DSA/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
