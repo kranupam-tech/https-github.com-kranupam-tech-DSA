@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/kranupam-tech/https-github.com-kranupam-tech-DSA/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/kranupam-tech/https-github.com-kranupam-tech-DSA/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/kranupam-tech/https-github.com-kranupam-tech-DSA/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/kranupam-tech/https-github.com-kranupam-tech-DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/kranupam-tech/https-github.com-kranupam-tech-DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/kranupam-tech/https-github.com-kranupam-tech-DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/kranupam-tech/https-github.com-kranupam-tech-DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/kranupam-tech/https-github.com-kranupam-tech-DSA/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/kranupam-tech/https-github.com-kranupam-tech-DSA/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/kranupam-tech/https-github.com-kranupam-tech-DSA/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/kranupam-tech/https-github.com-kranupam-tech-DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -146,4 +148,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/kranupam-tech/https-github.com-kranupam-tech-DSA/tree/master/0047-permutations-ii) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/kranupam-tech/https-github.com-kranupam-tech-DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
