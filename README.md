@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/kranupam-tech/https-github.com-kranupam-tech-DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/kranupam-tech/https-github.com-kranupam-tech-DSA/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2544-alternating-digit-sum](https://github.com/kranupam-tech/https-github.com-kranupam-tech-DSA/tree/master/2544-alternating-digit-sum) |
+| [3536-maximum-product-of-two-digits](https://github.com/kranupam-tech/https-github.com-kranupam-tech-DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3875-construct-uniform-parity-array-i](https://github.com/kranupam-tech/https-github.com-kranupam-tech-DSA/tree/master/3875-construct-uniform-parity-array-i) |
 ## Binary Search
 |  |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/kranupam-tech/https-github.com-kranupam-tech-DSA/tree/master/0047-permutations-ii) |
 | [0268-missing-number](https://github.com/kranupam-tech/https-github.com-kranupam-tech-DSA/tree/master/0268-missing-number) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/kranupam-tech/https-github.com-kranupam-tech-DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [3536-maximum-product-of-two-digits](https://github.com/kranupam-tech/https-github.com-kranupam-tech-DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/kranupam-tech/https-github.com-kranupam-tech-DSA/tree/master/3731-find-missing-elements) |
 ## Simulation
 |  |
